@@ -1,1 +1,3 @@
 #linux commands
+mkdir
+usage: mkdir [-pv] [-m mode] directory ...
